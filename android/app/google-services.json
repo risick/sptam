@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10825560576",
+    "project_id": "sptam-52a28",
+    "storage_bucket": "sptam-52a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10825560576:android:3170e8febd4b1c545adee5",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10825560576-b6m43k1grhemj5i40kiesh5735m69cvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDT7ngxzxGnwDa6OXp4MvMEosxeHlFWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10825560576-b6m43k1grhemj5i40kiesh5735m69cvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
